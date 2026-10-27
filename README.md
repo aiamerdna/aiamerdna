@@ -1,4 +1,5 @@
 Olá, sou o André!
+
 🚀 Sobre Mim
 - Sou um estudante de Análise e Desenvolvimento de Sistemas na UDF Centro Universitário. Tenho interesse na programação em C e C++ voltadas para o desenvolvimento de jogos e venho estudando sobre Front-End e Banco de Dados também.
 
